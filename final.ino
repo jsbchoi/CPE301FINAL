@@ -1,3 +1,7 @@
+// Justin Choi
+// Final Project
+// Purpose: Sense humidity/temp and display on after authorized RFID is near sensor
+
 #include <SPI.h>
 #include "MFRC522.h"
 #include <LiquidCrystal.h>
